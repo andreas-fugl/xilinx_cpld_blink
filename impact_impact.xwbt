@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=C:\XilinxProjects\CPLD_Project\impact.xsl
+OUTFILE=C:\XilinxProjects\CPLD_Project\impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=C:\XilinxProjects\CPLD_Project
+LICENSE=iMPACT
+USER_INFO=iMPACT

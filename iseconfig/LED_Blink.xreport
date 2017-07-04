@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2017-07-04T11:47:47</DateModified>
+  <DateModified>2017-07-04T11:51:28</DateModified>
   <ModuleName>LED_Blink</ModuleName>
-  <SummaryTimeStamp>2017-05-07T12:28:21</SummaryTimeStamp>
+  <SummaryTimeStamp>2017-07-04T11:49:13</SummaryTimeStamp>
   <SavedFilePath>C:/Users/arf/Documents/GitHub/xilinx_cpld_blink/iseconfig/LED_Blink.xreport</SavedFilePath>
   <ImplementationReportsDirectory>C:/Users/arf/Documents/GitHub/xilinx_cpld_blink\</ImplementationReportsDirectory>
   <DateInitialized>2017-05-07T12:16:29</DateInitialized>

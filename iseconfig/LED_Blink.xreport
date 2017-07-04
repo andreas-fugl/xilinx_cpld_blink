@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2017-07-04T11:37:30</DateModified>
+  <DateModified>2017-07-04T11:47:47</DateModified>
   <ModuleName>LED_Blink</ModuleName>
   <SummaryTimeStamp>2017-05-07T12:28:21</SummaryTimeStamp>
-  <SavedFilePath>C:/XilinxProjects/CPLD_Project/iseconfig/LED_Blink.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/XilinxProjects/CPLD_Project\</ImplementationReportsDirectory>
+  <SavedFilePath>C:/Users/arf/Documents/GitHub/xilinx_cpld_blink/iseconfig/LED_Blink.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/Users/arf/Documents/GitHub/xilinx_cpld_blink\</ImplementationReportsDirectory>
   <DateInitialized>2017-05-07T12:16:29</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
